@@ -50,7 +50,7 @@ export const About = () => {
               <h3 className="text-xl font-semibold text-gray-900">Background</h3>
             </div>
             <div className="space-y-3 text-gray-700">
-              <p><span className="font-medium">Parents:</span> Vinay Kumar Singh (Father), Nitu Singh (Mother)</p>
+      
               <p><span className="font-medium">Current Status:</span> B.Tech Student</p>
               <p><span className="font-medium">University:</span> MAKAUT University</p>
               <p><span className="font-medium">Expected Graduation:</span> 2026</p>

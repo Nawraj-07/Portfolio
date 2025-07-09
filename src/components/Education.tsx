@@ -4,7 +4,7 @@ import { GraduationCap, Calendar, Award } from "lucide-react";
 export const Education = () => {
   const educationData = [
     {
-      degree: "B.Tech in Information Technology",
+      degree: "B.Tech in Computer Science & Technology",
       institution: "MAKAUT University",
       period: "Expected Graduation: 2026",
       cgpa: "7.9/10",

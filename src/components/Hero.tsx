@@ -26,7 +26,7 @@ export const Hero = () => {
               Aspiring IT Professional
             </p>
             <p className="text-lg text-gray-500 mb-8 max-w-2xl">
-              B.Tech in Information Technology student at MAKAUT University, passionate about programming and problem-solving. 
+              B.Tech in Computer Science & Technology student at MAKAUT University, passionate about programming and problem-solving. 
               Seeking challenging opportunities to apply and enhance my technical skills.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -52,7 +52,8 @@ export const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-2xl opacity-20 animate-pulse"></div>
               <img
-                src="public\IMG-20230521-WA00341.jpg"
+                //src="public\IMG-20230521-WA00341.jpg"
+                 src="/IMG-20230521-WA00341.jpg"
                 alt="Nawraj Singh"
                 className="relative w-80 h-80 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-4 border-white hover:scale-105 transition-transform duration-300"
               />

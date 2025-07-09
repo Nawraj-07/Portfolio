@@ -29,6 +29,14 @@ export const Projects = () => {
       color: "from-purple-400 to-purple-600"
     },
     {
+      title: "Mutual Fund Tracker",
+      description: "A modern music streaming application with playlist management, audio controls, and responsive design. Built with focus on user experience and smooth audio playback.",
+      icon: <Music className="h-8 w-8" />,
+      technologies: ["React", "JavaScript", "CSS", "HTML","API Integration"],
+      features: ["Suggest Mutual Funds", "Track Mutual funds","Shows your searched mutual fund", "Responsive design", "Modern UI"],
+      color: "from-green-400 to-green-600"
+    },
+    {
       title: "Simon Say Game",
       description: "A memory-based game implementation of the classic Simon Says. Features progressive difficulty, sound effects, and engaging visual feedback.",
       icon: <Gamepad2 className="h-8 w-8" />,
@@ -36,6 +44,7 @@ export const Projects = () => {
       features: ["Memory challenge", "Progressive difficulty", "Sound effects", "Score tracking"],
       color: "from-red-400 to-red-600"
     }
+    
   ];
 
   return (
